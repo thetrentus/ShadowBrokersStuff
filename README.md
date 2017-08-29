@@ -145,3 +145,5 @@ Nested Tar archives have been uncompressed in the [archive_files](/archive_files
 
 - [.gov.ru](https://github.com/x0rz/EQGRP/blob/1667dacddf710082a1567e4e481f416876f432b7/archive_files/stoicctrls/stoicctrls/stoicsurgeon_ctrl__v__1.5.13.4_x86-freebsd-5.3) 
  (stoicsurgeon_ctrl__v__1.5.13.5_x86-freebsd-5.3-sassyninja-mail.aprf.gov.ru) (wow!)
+
+### Full credit to any original authors/contributors
